@@ -1,0 +1,1 @@
+#Your stand OO ruby class
