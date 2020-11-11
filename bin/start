@@ -1,6 +1,0 @@
-#!/usr/bin/env ruby 
-
-require_relative "../environment"
-require 'nokogiri'
-require 'open-uri'
-require 'pry'
